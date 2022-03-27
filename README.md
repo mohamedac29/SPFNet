@@ -12,11 +12,11 @@ global context features. Finally, we add decoder-based subpixel convolution to r
 
                 The detailed architecture of SPFNet
 
-<p align="center"><img width="90%" src="./demo_images/SPFNet_architecture.png" /></p>
+<p align="center"><img width="70%" src="./demo_images/SPFNet_architecture.png" /></p>
 
                 Dialted Spatial Attention Module
 
-<p align="center"><img width="75%" src="./demo_images/global_context.png" /></p>
+<p align="center"><img width="50%" src="./demo_images/global_context.png" /></p>
 
 ### Installation
 

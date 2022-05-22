@@ -1,4 +1,4 @@
-# SPFNet: Subspace Pyramid Fusion Network for Semantic Segmentation
+# SPFNet: Subspace Pyramid Fusion Network for Semantic Segmentation [[Arxiv]](https://arxiv.org/abs/2204.01278).
 
 ### Introduction
 

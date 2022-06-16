@@ -1,4 +1,4 @@
-# SPFNet: Subspace Pyramid Fusion Network for Semantic Segmentation
+# SPFNet: Subspace Pyramid Fusion Network for Semantic Segmentation [[Arxiv]](https://arxiv.org/abs/2204.01278).
 
 ### Introduction
 
@@ -14,9 +14,9 @@ global context features. Finally, we add decoder-based subpixel convolution to r
 
 <p align="center"><img width="70%" src="./demo_images/SPFNet_architecture.png" /></p>
 
-                Dialted Spatial Attention Module
+                Global Context Aggregation Module
 
-<p align="center"><img width="50%" src="./demo_images/global_context.png" /></p>
+<p align="center"><img width="70%" src="./demo_images/global_context.png" /></p>
 
 ### Installation
 

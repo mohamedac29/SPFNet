@@ -95,7 +95,17 @@ You need to download the [Cityscapes](https://www.cityscapes-dataset.com/), and 
 
 <p align="center"><img width="75%" src="./demo_images/camvid_demo.png" /></p>
 
+### Citation
 
+
+```
+@article{elhassan2022spfnet,
+  title={SPFNet: Subspace Pyramid Fusion Network for Semantic Segmentation},
+  author={Elhassan, Mohammed AM and Yang, Chenhui and Huang, Chenxi and Munea, Tewodros Legesse},
+  journal={arXiv preprint arXiv:2204.01278},
+  year={2022}
+}
+```
 ## License
 
 This code is released under the MIT License. See [LICENSE](LICENSE) for additional details.
